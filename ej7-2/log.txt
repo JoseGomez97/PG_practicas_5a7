@@ -1,0 +1,266 @@
+
+[Mon Apr  6 17:36:06 2020] INF: [app.cpp (86)] App created
+[Mon Apr  6 17:36:06 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej7-2d.exe
+[Mon Apr  6 17:36:07 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Mon Apr  6 17:36:07 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS 
+[Mon Apr  6 17:36:07 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Mon Apr  6 17:36:07 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Mon Apr  6 17:36:07 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Mon Apr  6 17:36:07 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Mon Apr  6 17:36:07 2020] INF: [app.cpp (421)] Se han encontrado 1 joystick(s).
+[Mon Apr  6 17:36:07 2020] INF: [sdladapter.cpp (251)] Joystick (XInput Controller #1): 6 ejes, 11 botones, 1 hats, 0 trackballs
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 920 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 1452 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 1452 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 968 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 48 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 32 bytes
+[Mon Apr  6 17:36:07 2020] INF: [assimpwrapper.cpp (93)] El modelo ../recursos/modelos/teapot.3ds no tiene animaciones
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 80 bytes
+[Mon Apr  6 17:36:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Apr  6 17:36:07 2020] INF: [assimpwrapper.cpp (414)] Material: %%%DEFAULT
+Amb: (0, 0, 0) Dif: (0.3, 0.3, 0.3) Esp: (0, 0, 0) Emi: (0, 0, 0) 
+Shading model *ignored*: Simple Gouraud shading
+Textures:
+ TextureCount: 00000000000000000000000000000000
+[Mon Apr  6 17:36:07 2020] INF: [assimpwrapper.cpp (193)] Mesh #0 (0). Tris: 3080. Vtx: 1597 with normals WITHOUT tangents
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 36960 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 19164 bytes
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 19164 bytes
+[Mon Apr  6 17:36:07 2020] INF: [fileloader.cpp (293)] Grafo de escena:
+Transform (<3DSDummyRoot>) BB: [-1.99513 -> 2.21556, 1.0091e-09 -> 2.06155, -1.34067 -> 1.27718] 1 hijos 
+Mat: [
+1 0 0 0
+0 0 1 0
+0 -1 0 0
+0 0 0 1]
+  Transform (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 hijos 
+  Mat: [
+  1 0 0 0
+  0 1 0 0
+  0 0 1 0
+  0 0 0 1]
+    Geode (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 mallas { [0] 1597 vert 1 draws}
+
+[Mon Apr  6 17:36:07 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 368 bytes
+[Mon Apr  6 17:36:07 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Mon Apr  6 17:36:07 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.vert
+[Mon Apr  6 17:36:07 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.frag
+[Mon Apr  6 17:36:07 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.geom
+[Mon Apr  6 17:36:07 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Geometry shader in program 4 is being recompiled based on GL state, and was not found in the disk cache
+[Mon Apr  6 17:36:07 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Mon Apr  6 17:36:07 2020] INF: [shader.cpp (169)] Compilando 
+[Mon Apr  6 17:36:07 2020] INF: [shader.cpp (169)] Compilando 
+[Mon Apr  6 17:36:07 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state.
+[Mon Apr  6 17:36:07 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state, and was not found in the disk cache
+[Mon Apr  6 17:36:21 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Material) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Normales) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Indices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Normales) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Coord. de textura (0)) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Mon Apr  6 17:36:21 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (GLMatrices) destruído
+[Mon Apr  6 17:36:21 2020] INF: [sdladapter.cpp (257)] Destruyendo el joystick XInput Controller #1
+[Mon Apr  6 17:36:21 2020] INF: [app.cpp (93)] App destroyed
+[Mon Apr  6 17:36:21 2020] INF: [log.cpp (46)] Closing Log
+
+[Tue Apr  7 16:29:53 2020] INF: [app.cpp (86)] App created
+[Tue Apr  7 16:29:53 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej7-2d.exe
+[Tue Apr  7 16:29:55 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Apr  7 16:29:55 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Tue Apr  7 16:29:55 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Apr  7 16:29:55 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Apr  7 16:29:55 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Tue Apr  7 16:29:55 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Apr  7 16:29:55 2020] INF: [app.cpp (421)] Se han encontrado 1 joystick(s).
+[Tue Apr  7 16:29:55 2020] INF: [sdladapter.cpp (251)] Joystick (XInput Controller #1): 6 ejes, 11 botones, 1 hats, 0 trackballs
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 920 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 1452 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 1452 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 968 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 48 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 32 bytes
+[Tue Apr  7 16:29:55 2020] INF: [assimpwrapper.cpp (93)] El modelo ../recursos/modelos/teapot.3ds no tiene animaciones
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 80 bytes
+[Tue Apr  7 16:29:55 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Tue Apr  7 16:29:55 2020] INF: [assimpwrapper.cpp (414)] Material: %%%DEFAULT
+Amb: (0, 0, 0) Dif: (0.3, 0.3, 0.3) Esp: (0, 0, 0) Emi: (0, 0, 0) 
+Shading model *ignored*: Simple Gouraud shading
+Textures:
+ TextureCount: 00000000000000000000000000000000
+[Tue Apr  7 16:29:55 2020] INF: [assimpwrapper.cpp (193)] Mesh #0 (0). Tris: 3080. Vtx: 1597 with normals WITHOUT tangents
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 36960 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 19164 bytes
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 19164 bytes
+[Tue Apr  7 16:29:55 2020] INF: [fileloader.cpp (293)] Grafo de escena:
+Transform (<3DSDummyRoot>) BB: [-1.99513 -> 2.21556, 1.0091e-09 -> 2.06155, -1.34067 -> 1.27718] 1 hijos 
+Mat: [
+1 0 0 0
+0 0 1 0
+0 -1 0 0
+0 0 0 1]
+  Transform (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 hijos 
+  Mat: [
+  1 0 0 0
+  0 1 0 0
+  0 0 1 0
+  0 0 0 1]
+    Geode (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 mallas { [0] 1597 vert 1 draws}
+
+[Tue Apr  7 16:29:55 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 368 bytes
+[Tue Apr  7 16:29:55 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Apr  7 16:29:55 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.vert
+[Tue Apr  7 16:29:55 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.frag
+[Tue Apr  7 16:29:55 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.geom
+[Tue Apr  7 16:29:55 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Tue Apr  7 16:29:55 2020] INF: [shader.cpp (169)] Compilando 
+[Tue Apr  7 16:29:55 2020] INF: [shader.cpp (169)] Compilando 
+[Tue Apr  7 16:29:55 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state.
+[Tue Apr  7 16:29:58 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Material) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Normales) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Indices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Normales) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Coord. de textura (0)) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Apr  7 16:29:58 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (GLMatrices) destruído
+[Tue Apr  7 16:29:58 2020] INF: [sdladapter.cpp (257)] Destruyendo el joystick XInput Controller #1
+[Tue Apr  7 16:29:58 2020] INF: [app.cpp (93)] App destroyed
+[Tue Apr  7 16:29:58 2020] INF: [log.cpp (46)] Closing Log
+
+[Tue Apr  7 16:30:42 2020] INF: [app.cpp (86)] App created
+[Tue Apr  7 16:30:42 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej7-2d.exe
+[Tue Apr  7 16:30:43 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Tue Apr  7 16:30:43 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Tue Apr  7 16:30:43 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Tue Apr  7 16:30:43 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Tue Apr  7 16:30:43 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Tue Apr  7 16:30:43 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Tue Apr  7 16:30:43 2020] INF: [app.cpp (421)] Se han encontrado 1 joystick(s).
+[Tue Apr  7 16:30:43 2020] INF: [sdladapter.cpp (251)] Joystick (XInput Controller #1): 6 ejes, 11 botones, 1 hats, 0 trackballs
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 96 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 72 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 920 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 1452 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 1452 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 968 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 48 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 32 bytes
+[Tue Apr  7 16:30:43 2020] INF: [assimpwrapper.cpp (93)] El modelo ../recursos/modelos/teapot.3ds no tiene animaciones
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 80 bytes
+[Tue Apr  7 16:30:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Tue Apr  7 16:30:43 2020] INF: [assimpwrapper.cpp (414)] Material: %%%DEFAULT
+Amb: (0, 0, 0) Dif: (0.3, 0.3, 0.3) Esp: (0, 0, 0) Emi: (0, 0, 0) 
+Shading model *ignored*: Simple Gouraud shading
+Textures:
+ TextureCount: 00000000000000000000000000000000
+[Tue Apr  7 16:30:43 2020] INF: [assimpwrapper.cpp (193)] Mesh #0 (0). Tris: 3080. Vtx: 1597 with normals WITHOUT tangents
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 36960 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 19164 bytes
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 19164 bytes
+[Tue Apr  7 16:30:43 2020] INF: [fileloader.cpp (293)] Grafo de escena:
+Transform (<3DSDummyRoot>) BB: [-1.99513 -> 2.21556, 1.0091e-09 -> 2.06155, -1.34067 -> 1.27718] 1 hijos 
+Mat: [
+1 0 0 0
+0 0 1 0
+0 -1 0 0
+0 0 0 1]
+  Transform (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 hijos 
+  Mat: [
+  1 0 0 0
+  0 1 0 0
+  0 0 1 0
+  0 0 0 1]
+    Geode (3DSMesh_0) BB: [-1.99513 -> 2.21556, -1.27718 -> 1.34067, 1.0091e-09 -> 2.06155] 1 mallas { [0] 1597 vert 1 draws}
+
+[Tue Apr  7 16:30:43 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 368 bytes
+[Tue Apr  7 16:30:43 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Tue Apr  7 16:30:43 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.vert
+[Tue Apr  7 16:30:43 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.frag
+[Tue Apr  7 16:30:43 2020] INF: [shader.cpp (169)] Compilando ../ej7-2/ej7-2.geom
+[Tue Apr  7 16:30:43 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Tue Apr  7 16:30:43 2020] INF: [shader.cpp (169)] Compilando 
+[Tue Apr  7 16:30:43 2020] INF: [shader.cpp (169)] Compilando 
+[Tue Apr  7 16:30:43 2020] WAR: [window.cpp (615)] (!! ) GL Debug: (PERFORMANCE) Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state.
+[Tue Apr  7 16:30:44 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Vertices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Material) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Vertices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Normales) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Indices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Vertices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Normales) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Indices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Coord. de textura (0)) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Colores) destruído
+[Tue Apr  7 16:30:44 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (GLMatrices) destruído
+[Tue Apr  7 16:30:44 2020] INF: [sdladapter.cpp (257)] Destruyendo el joystick XInput Controller #1
+[Tue Apr  7 16:30:44 2020] INF: [app.cpp (93)] App destroyed
+[Tue Apr  7 16:30:44 2020] INF: [log.cpp (46)] Closing Log

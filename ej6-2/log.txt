@@ -1,0 +1,633 @@
+
+[Mon Mar 30 19:41:32 2020] INF: [app.cpp (86)] App created
+[Mon Mar 30 19:41:32 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej6-2d.exe
+[Mon Mar 30 19:41:33 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Mon Mar 30 19:41:33 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Mon Mar 30 19:41:33 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Mon Mar 30 19:41:33 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Mon Mar 30 19:41:33 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Mon Mar 30 19:41:33 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Mon Mar 30 19:41:33 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 3320 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 5412 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 5412 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 3608 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 7560 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 11532 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 11532 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 7688 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 288 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 288 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 192 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 1200 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 1200 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 800 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 756 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 96 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 72 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 80 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 80 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 80 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 80 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 368 bytes
+[Mon Mar 30 19:41:33 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 576 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubolightsources.cpp (86)] UBO LightSources creado
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 80 bytes
+[Mon Mar 30 19:41:33 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.vert
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.frag
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.vert
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.frag
+[Mon Mar 30 19:41:33 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando 
+[Mon Mar 30 19:41:33 2020] INF: [shader.cpp (169)] Compilando 
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 920 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 1452 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 1452 bytes
+[Mon Mar 30 19:41:33 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 968 bytes
+[Mon Mar 30 19:41:38 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Colores) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Material) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Normales) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Indices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Coord. de textura (0)) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Material) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Normales) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Coord. de textura (0)) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Material) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Normales) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Indices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Material) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Normales) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Indices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Material) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (GLMatrices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Lights) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Mon Mar 30 19:41:38 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Mon Mar 30 19:41:38 2020] INF: [app.cpp (93)] App destroyed
+[Mon Mar 30 19:41:38 2020] INF: [log.cpp (46)] Closing Log
+
+[Wed Apr  1 00:26:42 2020] INF: [app.cpp (86)] App created
+[Wed Apr  1 00:26:42 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej6-2d.exe
+[Wed Apr  1 00:26:43 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Wed Apr  1 00:26:43 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Wed Apr  1 00:26:43 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Wed Apr  1 00:26:43 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Wed Apr  1 00:26:43 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Wed Apr  1 00:26:43 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Wed Apr  1 00:26:43 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 3320 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 5412 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 5412 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 3608 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 7560 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 11532 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 11532 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 7688 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 288 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 288 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 192 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 1200 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 1200 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 800 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 756 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 96 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 72 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 80 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 80 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 80 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 80 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 368 bytes
+[Wed Apr  1 00:26:43 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 576 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubolightsources.cpp (86)] UBO LightSources creado
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 80 bytes
+[Wed Apr  1 00:26:43 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.vert
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.frag
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.vert
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.frag
+[Wed Apr  1 00:26:43 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando 
+[Wed Apr  1 00:26:43 2020] INF: [shader.cpp (169)] Compilando 
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 920 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 1452 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 1452 bytes
+[Wed Apr  1 00:26:43 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 968 bytes
+[Wed Apr  1 00:26:45 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Colores) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Material) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Normales) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Indices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Material) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Normales) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Material) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Normales) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Indices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Material) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Normales) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Indices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Material) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (GLMatrices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Lights) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Wed Apr  1 00:26:45 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:26:45 2020] INF: [app.cpp (93)] App destroyed
+[Wed Apr  1 00:26:45 2020] INF: [log.cpp (46)] Closing Log
+
+[Wed Apr  1 00:26:49 2020] INF: [app.cpp (86)] App created
+[Wed Apr  1 00:26:49 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej6-2d.exe
+[Wed Apr  1 00:26:50 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Wed Apr  1 00:26:50 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS 
+[Wed Apr  1 00:26:50 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Wed Apr  1 00:26:50 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Wed Apr  1 00:26:50 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Wed Apr  1 00:26:50 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Wed Apr  1 00:26:50 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 3320 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 5412 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 5412 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 3608 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 7560 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 11532 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 11532 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 7688 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 288 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 288 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 192 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 1200 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 1200 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 800 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 756 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 96 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 72 bytes
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 80 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 80 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 80 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 80 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 368 bytes
+[Wed Apr  1 00:26:50 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 576 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubolightsources.cpp (86)] UBO LightSources creado
+[Wed Apr  1 00:26:50 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 80 bytes
+[Wed Apr  1 00:26:50 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:26:50 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.vert
+[Wed Apr  1 00:26:50 2020] ERR: [program.cpp (223)] Error compilando el shader:0(44) : warning C7022: unrecognized profile specifier "hihl"
+0(44) : error C0502: syntax error at token "hihl"
+
+Vertex shader: ../ej6-2/gouraud.vert
+------------------------------------
+  1 |#version 420
+  2 |
+  3 |layout (std140, binding=0) uniform GLMatrices {
+  4 |  mat4 modelMatrix;
+  5 |  mat4 viewMatrix;
+  6 |  mat4 projMatrix;
+  7 |  mat4 modelviewMatrix;
+  8 |  mat4 modelviewprojMatrix;
+  9 |  mat3 normalMatrix;
+ 10 |};
+ 11 |struct LightSource {
+ 12 |  vec4 ambient, diffuse, specular;
+ 13 |  vec4 positionWorld;
+ 14 |  vec4 positionEye;
+ 15 |  vec3 spotDirectionWorld;
+ 16 |  int directional;
+ 17 |  vec3 spotDirectionEye;
+ 18 |  int enabled;
+ 19 |  float spotExponent, spotCutoff, spotCosCutoff;
+ 20 |  vec3 attenuation;
+ 21 |};
+ 22 |layout (std140, binding=2) uniform Lights {
+ 23 |  LightSource lights[4];
+ 24 |};
+ 25 |layout (std140, binding=1) uniform Material {
+ 26 |vec4 diffuse;
+ 27 |vec4 ambient;
+ 28 |vec4 specular;
+ 29 |vec4 emissive;
+ 30 |float shininess;
+ 31 |int textureCount;
+ 32 |};
+ 33 |
+ 34 |uint numDiffTextures() { return bitfieldExtract(textureCount, 0, 3); }
+ 35 |uint numSpecTextures() { return bitfieldExtract(textureCount, 3, 3); }
+ 36 |uint numNormTextures() { return bitfieldExtract(textureCount, 6, 3); }
+ 37 |uint numHeightTextures() { return bitfieldExtract(textureCount, 9, 3); }
+ 38 |uint numOpacTextures() { return bitfieldExtract(textureCount, 12, 3); }
+ 39 |uint numAmbTextures() { return bitfieldExtract(textureCount, 15, 3); }
+ 40 |
+ 41 |in vec4 position;
+ 42 |in vec3 normal;hihl
+ 43 |
+ 44 |out vec4 color;
+ 45 |
+ 46 |// Suponiendo fuentes puntuales
+ 47 |vec4 iluminacion(vec3 pos, vec3 N, vec3 V) {
+ 48 |  // Componente emisiva del material
+ 49 |  vec4 color = emissive;
+ 50 |  for (int i = 0; i < lights.length(); i++) {
+ 51 |    // Si la fuente est� apagada, no tenerla en cuenta
+ 52 |    if (lights[i].enabled == 0)
+ 53 |      continue;
+ 54 |    // Vector iluminaci�n (desde v�rtice a la fuente)
+ 55 |    vec3 L = normalize(vec3(lights[i].positionEye) - pos);
+ 56 |    // Multiplicador de la componente difusa
+ 57 |    float diffuseMult = max(dot(N, L), 0.0);
+ 58 |    float specularMult = 0.0;
+ 59 |    if (diffuseMult > 0.0) {
+ 60 |      // Multiplicador de la componente especular
+ 61 |      vec3 R = reflect(-L, N);
+ 62 |      specularMult = max(0.0, dot(R, V));
+ 63 |      specularMult = pow(specularMult, shininess);
+ 64 |    }
+ 65 |
+ 66 |    color += lights[i].ambient * ambient +
+ 67 |             lights[i].diffuse * diffuse * diffuseMult +
+ 68 |             lights[i].specular * specular * specularMult;
+ 69 |  }
+ 70 |
+ 71 |  return color;
+ 72 |}
+ 73 |
+ 74 |void main() {
+ 75 |  // Normal en el espacio de la c�mara
+ 76 |  vec3 eN = normalize(normalMatrix * normal);
+ 77 |  // V�rtice en el espacio de la c�mara
+ 78 |  vec3 eposition = vec3(modelviewMatrix * position);
+ 79 |  // Vector vista (desde v�rtice a la c�mara)
+ 80 |  vec3 V = normalize(-eposition.xyz);
+ 81 |  // C�lculo de la iluminaci�n
+ 82 |  color = iluminacion(eposition, eN, V);
+ 83 |  gl_Position = modelviewprojMatrix * position;
+ 84 |}
+ 85 |
+
+
+[Wed Apr  1 00:27:06 2020] INF: [app.cpp (86)] App created
+[Wed Apr  1 00:27:06 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej6-2d.exe
+[Wed Apr  1 00:27:07 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Wed Apr  1 00:27:07 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Wed Apr  1 00:27:07 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Wed Apr  1 00:27:07 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Wed Apr  1 00:27:07 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Wed Apr  1 00:27:07 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Wed Apr  1 00:27:07 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 3320 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 5412 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 5412 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 3608 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 7560 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 11532 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 11532 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 7688 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 288 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 288 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 192 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 1200 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 1200 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 800 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 756 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 96 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 72 bytes
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 80 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 80 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 80 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 80 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 368 bytes
+[Wed Apr  1 00:27:07 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 576 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubolightsources.cpp (86)] UBO LightSources creado
+[Wed Apr  1 00:27:07 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 80 bytes
+[Wed Apr  1 00:27:07 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:07 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.vert
+[Wed Apr  1 00:27:07 2020] ERR: [program.cpp (223)] Error compilando el shader:0(76) : error C0000: syntax error, unexpected reserved word "float", expecting ',' or ';' at token "float"
+0(84) : error C1020: invalid operands to "<"
+0(90) : error C1115: unable to find compatible overloaded function "pow(vec3, float)"
+0(93) : error C1503: undefined variable "factorAtenuacion"
+
+Vertex shader: ../ej6-2/gouraud.vert
+------------------------------------
+  1 |#version 420
+  2 |
+  3 |layout (std140, binding=0) uniform GLMatrices {
+  4 |  mat4 modelMatrix;
+  5 |  mat4 viewMatrix;
+  6 |  mat4 projMatrix;
+  7 |  mat4 modelviewMatrix;
+  8 |  mat4 modelviewprojMatrix;
+  9 |  mat3 normalMatrix;
+ 10 |};
+ 11 |struct LightSource {
+ 12 |  vec4 ambient, diffuse, specular;
+ 13 |  vec4 positionWorld;
+ 14 |  vec4 positionEye;
+ 15 |  vec3 spotDirectionWorld;
+ 16 |  int directional;
+ 17 |  vec3 spotDirectionEye;
+ 18 |  int enabled;
+ 19 |  float spotExponent, spotCutoff, spotCosCutoff;
+ 20 |  vec3 attenuation;
+ 21 |};
+ 22 |layout (std140, binding=2) uniform Lights {
+ 23 |  LightSource lights[4];
+ 24 |};
+ 25 |layout (std140, binding=1) uniform Material {
+ 26 |vec4 diffuse;
+ 27 |vec4 ambient;
+ 28 |vec4 specular;
+ 29 |vec4 emissive;
+ 30 |float shininess;
+ 31 |int textureCount;
+ 32 |};
+ 33 |
+ 34 |uint numDiffTextures() { return bitfieldExtract(textureCount, 0, 3); }
+ 35 |uint numSpecTextures() { return bitfieldExtract(textureCount, 3, 3); }
+ 36 |uint numNormTextures() { return bitfieldExtract(textureCount, 6, 3); }
+ 37 |uint numHeightTextures() { return bitfieldExtract(textureCount, 9, 3); }
+ 38 |uint numOpacTextures() { return bitfieldExtract(textureCount, 12, 3); }
+ 39 |uint numAmbTextures() { return bitfieldExtract(textureCount, 15, 3); }
+ 40 |
+ 41 |in vec4 position;
+ 42 |in vec3 normal;
+ 43 |
+ 44 |out vec4 color;
+ 45 |
+ 46 |// Suponiendo fuentes puntuales
+ 47 |vec4 iluminacion(vec3 pos, vec3 N, vec3 V) {
+ 48 |
+ 49 |  // Componente emisiva del material
+ 50 |  vec4 color = emissive;
+ 51 |
+ 52 |  for (int i = 0; i < lights.length(); i++) {
+ 53 |
+ 54 |    // Si la fuente est� apagada, no tenerla en cuenta
+ 55 |    if (lights[i].enabled == 0)
+ 56 |      continue;
+ 57 |
+ 58 |    // Vector iluminaci�n (desde v�rtice a la fuente)
+ 59 |    vec3 L = normalize(vec3(lights[i].positionEye) - pos);
+ 60 |
+ 61 |    // Multiplicador de la componente difusa
+ 62 |    float diffuseMult = max(dot(N, L), 0.0);
+ 63 |
+ 64 |    float specularMult = 0.0;
+ 65 |    if (diffuseMult > 0.0) {
+ 66 |      // Multiplicador de la componente especular
+ 67 |      vec3 R = reflect(-L, N);
+ 68 |      specularMult = max(0.0, dot(R, V));
+ 69 |      specularMult = pow(specularMult, shininess);
+ 70 |    }
+ 71 |    
+ 72 |    // Distancia (desde v�rtice a la fuente)
+ 73 |    float d = distance(vec3(lights[i].positionEye), pos)
+ 74 |
+ 75 |    // Factor atenuaci�n
+ 76 |    float factorAtenuacion = 1 / max(1, lights[i].attenuation[0] + lights[i].attenuation[1] * d + lights[i].attenuation[2] * d * d);
+ 77 |
+ 78 |    // Efecto foco
+ 79 |    float efectoFoco;
+ 80 |    if (lights[i].spotCutoff == 180) // La fuente no es focal
+ 81 |    {
+ 82 |        efectoFoco = 1;
+ 83 |    }
+ 84 |    else if (max(-L*lights[i].spotDirectionWorld, 0) < lights[i].spotCosCutoff) // V�rtice dentro del cono iluminado
+ 85 |    { 
+ 86 |        efectoFoco = 0;
+ 87 |    }
+ 88 |    else
+ 89 |    {
+ 90 |        efectoFoco = pow(max(-L*lights[i].spotDirectionWorld, 0), lights[i].spotExponent);
+ 91 |    }
+ 92 |
+ 93 |    color += factorAtenuacion * efectoFoco *
+ 94 |             ( lights[i].ambient * ambient +
+ 95 |               lights[i].diffuse * diffuse * diffuseMult +
+ 96 |               lights[i].specular * specular * specularMult );
+ 97 |
+ 98 |  }
+ 99 |
+100 |  return color;
+101 |}
+102 |
+103 |void main() {
+104 |
+105 |  // Normal en el espacio de la c�mara
+106 |  vec3 eN = normalize(normalMatrix * normal);
+107 |
+108 |  // V�rtice en el espacio de la c�mara
+109 |  vec3 eposition = vec3(modelviewMatrix * position);
+110 |
+111 |  // Vector vista (desde v�rtice a la c�mara)
+112 |  vec3 V = normalize(-eposition.xyz);
+113 |
+114 |  // C�lculo de la iluminaci�n
+115 |  color = iluminacion(eposition, eN, V);
+116 |
+117 |  gl_Position = modelviewprojMatrix * position;
+118 |}
+119 |
+
+[Wed Apr  1 00:27:13 2020] INF: [app.cpp (93)] App destroyed
+[Wed Apr  1 00:27:13 2020] INF: [log.cpp (46)] Closing Log
+
+[Wed Apr  1 00:27:55 2020] INF: [app.cpp (86)] App created
+[Wed Apr  1 00:27:55 2020] INF: [app.cpp (106)] Iniciando aplicación C:\Users\joseg\Desktop\Practicas5a8-PG\bin\ej6-2d.exe
+[Wed Apr  1 00:27:56 2020] INF: [sdladapter.cpp (489)] Window Properties: DOUBLE_BUFFER 
+[Wed Apr  1 00:27:56 2020] INF: [sdladapter.cpp (491)] SDL Window flags: SDL_WINDOW_OPENGL SDL_WINDOW_SHOWN SDL_WINDOW_RESIZABLE SDL_WINDOW_INPUT_FOCUS SDL_WINDOW_MOUSE_FOCUS 
+[Wed Apr  1 00:27:56 2020] INF: [sdladapter.cpp (494)] SDL Context flags: SDL_GL_CONTEXT_DEBUG_FLAG 
+[Wed Apr  1 00:27:56 2020] INF: [window.cpp (128)] Ventana creada. Soporte de OpenGL: GL_VERSION_4_5
+[Wed Apr  1 00:27:56 2020] INF: [windowbuilder.cpp (75)] Información del driver:
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce GTX 1650 with Max-Q Design/PCIe/SSE2
+GL_VERSION: 4.5.0 NVIDIA 445.75
+GL_SHADING_LANGUAGE_VERSION: 4.50 NVIDIA
+Tamaño del framebuffer por defecto:
+   bits de color: (8, 8, 8, 0), depth: 24, stencil: 0
+
+[Wed Apr  1 00:27:56 2020] INF: [app.cpp (161)] Library versions
+PGUPV 64 bits Debug Revision: 2010
+Boost: 1_69
+SDL: Runtime: 2.0.8 Compiled: 2.0.8
+Assimp: 4.1.0
+GLEW: 2.2.0
+Par Shapes: http://github.prideout.net/shapes @ August 2016
+GLI: 0.8.3
+FreeImage: 3.18.0
+ImGui: 1.70
+[Wed Apr  1 00:27:56 2020] INF: [app.cpp (418)] No se han encontrado joysticks en el sistema
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 1 ha reservado 3320 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 2 ha reservado 5412 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 3 ha reservado 5412 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 4 ha reservado 3608 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 5 ha reservado 7560 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 6 ha reservado 11532 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 7 ha reservado 11532 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 8 ha reservado 7688 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 9 ha reservado 288 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 10 ha reservado 288 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 11 ha reservado 192 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 12 ha reservado 1200 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 13 ha reservado 1200 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 14 ha reservado 800 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 15 ha reservado 756 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 16 ha reservado 96 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 17 ha reservado 72 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 18 ha reservado 80 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 19 ha reservado 80 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 20 ha reservado 80 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 21 ha reservado 80 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 22 ha reservado 368 bytes
+[Wed Apr  1 00:27:56 2020] INF: [glmatrices.cpp (160)] UBO GLMatrices creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 23 ha reservado 576 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubolightsources.cpp (86)] UBO LightSources creado
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 24 ha reservado 80 bytes
+[Wed Apr  1 00:27:56 2020] INF: [ubomaterial.cpp (54)] UBO Material creado
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.vert
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando ../ej6-2/gouraud.frag
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.vert
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando ../recursos/shaders/constantshadinguniform.frag
+[Wed Apr  1 00:27:56 2020] INF: [stockprograms.h (36)] StockProgram creado
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando 
+[Wed Apr  1 00:27:56 2020] INF: [shader.cpp (169)] Compilando 
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 25 ha reservado 920 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 26 ha reservado 1452 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 27 ha reservado 1452 bytes
+[Wed Apr  1 00:27:56 2020] INF: [bufferobject.cpp (41)] Buffer object 28 ha reservado 968 bytes
+[Wed Apr  1 00:28:05 2020] INF: [app.cpp (599)] Aplicación terminada normalmente
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 17 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 16 (Colores) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 21 (Material) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 12 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 13 (Normales) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 15 (Indices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 14 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 20 (Material) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 10 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 9 (Normales) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 11 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 19 (Material) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 6 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 7 (Normales) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 5 (Indices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 8 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 18 (Material) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 2 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 3 (Normales) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 1 (Indices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 4 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 24 (Material) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 22 (GLMatrices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 23 (Lights) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 26 (Vertices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 27 (Normales) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 25 (Indices) destruído
+[Wed Apr  1 00:28:05 2020] INF: [bufferobject.cpp (19)] Buffer object 28 (Coord. de textura (0)) destruído
+[Wed Apr  1 00:28:05 2020] INF: [app.cpp (93)] App destroyed
+[Wed Apr  1 00:28:05 2020] INF: [log.cpp (46)] Closing Log
